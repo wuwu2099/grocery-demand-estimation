@@ -1,0 +1,4 @@
+grocery_group,household_count,avg_household_size,median_income,median_age,owner_rate,college_plus_pct
+Low ($4926),1621.67,1.81,40838.33,44.33,31.14,21.55
+Medium ($5842),1893.68,2.54,79257.36,42.63,72.21,29.45
+High ($7120),1724.09,2.58,106513.73,47.48,84.8,35.83

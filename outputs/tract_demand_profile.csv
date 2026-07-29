@@ -1,0 +1,5 @@
+demand_class,household_count,avg_household_size,median_income,median_age,owner_rate,college_plus_pct,avg_grocery
+Low ($0–5M),1115.0,2.0,81794.0,48.0,76.0,32.0,5872.0
+Medium ($5M–10M),1624.0,3.0,82255.0,44.0,68.0,30.0,6193.0
+High ($10M–15M),2342.0,3.0,87769.0,43.0,75.0,31.0,6354.0
+Very High (>$15M),3315.0,3.0,86767.0,37.0,71.0,28.0,6162.0
