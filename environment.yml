@@ -1,0 +1,25 @@
+## Environment
+
+### Development Environment
+
+- Visual Studio Code
+- Jupyter Notebook
+- Python 3.x
+
+### Python Libraries
+
+- pandas
+- NumPy
+- GeoPandas
+- Matplotlib
+- Requests
+- Shapely
+- adjustText
+- matplotlib-scalebar
+
+### Data Sources
+
+- U.S. Census Bureau American Community Survey (ACS) 5-Year Estimates
+- U.S. Census Bureau Cartographic Boundary Shapefiles
+- Bureau of Labor Statistics (BLS) Consumer Expenditure Survey
+
